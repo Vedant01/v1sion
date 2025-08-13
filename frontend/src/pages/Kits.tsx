@@ -273,18 +273,18 @@ const KitsPage = () => {
             <div className="max-w-4xl mx-auto text-center">
               <div className="frosted-glass p-8 hover-lift">
                 <h3 className="text-subsection-title text-gray-900 mb-4">
-                  Complete AI Transformation Bundle
+                  Complete AI Dominance Bundle
                 </h3>
                 <p className="text-body text-gray-600 mb-6">
-                  Get all 6 kits at a special bundle price and save ₹80,000
+                  Get all 6 agent kits and build an unstoppable AI empire - save ₹4,50,000
                 </p>
                 <div className="flex items-center justify-center gap-4 mb-6">
-                  <span className="stat-counter text-3xl font-bold text-emerald-700">₹1,50,000</span>
-                  <span className="text-gray-500 line-through text-xl">₹2,30,000</span>
-                  <span className="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-bold">35% OFF</span>
+                  <span className="stat-counter text-3xl font-bold text-emerald-700">₹12,00,000</span>
+                  <span className="text-gray-500 line-through text-xl">₹16,50,000</span>
+                  <span className="bg-red-100 text-red-700 px-3 py-1 rounded-full text-sm font-bold">27% OFF</span>
                 </div>
                 <button className="professional-button text-lg px-8 py-4">
-                  Get Complete Bundle
+                  Build Your Empire
                 </button>
               </div>
             </div>

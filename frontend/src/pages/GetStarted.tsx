@@ -91,12 +91,12 @@ const GetStartedPage = () => {
               </div>
               
               <h1 className="text-section-title text-gray-900 mb-6 fade-in-up">
-                Ready to Transform Your
-                <span className="block text-gradient mt-2">Organization?</span>
+                Ready to Deploy Your
+                <span className="block text-gradient mt-2">AI Agent Army?</span>
               </h1>
               
               <p className="text-body-large text-gray-600 mb-12 max-w-3xl mx-auto fade-in-up">
-                Begin your AI transformation journey with a comprehensive readiness assessment and strategic roadmap tailored to your unique business needs.
+                Stop hiring expensive humans for tasks that AI agents can do better, faster, and 24/7 without coffee breaks.
               </p>
 
               {/* Primary CTA Buttons */}

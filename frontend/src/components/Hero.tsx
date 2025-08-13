@@ -54,6 +54,9 @@ const Hero = () => {
                 Empire Builders
               </span>
             </h1>
+            <p className="text-lg md:text-xl text-white/90 font-agile mt-4 drop-shadow-lg italic">
+              "Get ₹50,000/month work done for ₹500/month"
+            </p>
           </div>
         </div>
 

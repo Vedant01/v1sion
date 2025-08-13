@@ -69,7 +69,7 @@ const ServiceOfferings = () => {
             <span className="block text-gradient">& Deployment</span>
           </h2>
           <p className="text-body-large text-gray-600 fade-in-up">
-            From single agents to full AI empires - we build what others can't
+            Scale without hiring. Generate revenue from data. Build competitive advantage.
           </p>
         </div>
 

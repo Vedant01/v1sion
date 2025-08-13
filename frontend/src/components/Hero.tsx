@@ -142,11 +142,15 @@ const Hero = () => {
               <div className="inline-flex items-center gap-6 px-6 py-3 bg-gray-50/80 backdrop-blur-sm border border-gray-200/40 rounded-full">
                 <div className="flex items-center gap-2 text-xs font-medium text-gray-600">
                   <div className="w-2 h-2 rounded-full bg-green-500"></div>
-                  <span>Enterprise Ready</span>
+                  <span>₹8L additional capacity/year</span>
                 </div>
                 <div className="flex items-center gap-2 text-xs font-medium text-gray-600">
-                  <div className="w-2 h-2 rounded-full bg-gray-900"></div>
-                  <span>24/7 Support</span>
+                  <div className="w-2 h-2 rounded-full bg-emerald-600"></div>
+                  <span>24/7 operations, zero downtime</span>
+                </div>
+                <div className="flex items-center gap-2 text-xs font-medium text-gray-600">
+                  <div className="w-2 h-2 rounded-full bg-amber-500"></div>
+                  <span>ROI in 30 days guaranteed</span>
                 </div>
               </div>
             </div>

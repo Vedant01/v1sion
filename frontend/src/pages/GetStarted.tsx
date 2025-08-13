@@ -54,12 +54,12 @@ const GetStartedPage = () => {
   ];
 
   const benefits = [
-    "Comprehensive AI maturity assessment",
-    "Custom transformation roadmap",
-    "Expert implementation support",
-    "Ongoing optimization and support",
-    "Access to V0RA platform",
-    "V3RSE talent network integration"
+    "Complete AI agent strategy & blueprint",
+    "Custom agent development & deployment",
+    "Multi-platform integration & monitoring",
+    "Advanced GEO optimization included",
+    "MCP protocol implementation",
+    "24/7 agent performance monitoring"
   ];
 
   const testimonials = [

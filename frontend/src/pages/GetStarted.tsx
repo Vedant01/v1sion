@@ -54,12 +54,12 @@ const GetStartedPage = () => {
   ];
 
   const benefits = [
-    "Complete AI agent strategy & blueprint",
+    "10x output capacity without hiring",
     "Custom agent development & deployment",
     "Multi-platform integration & monitoring",
-    "Advanced GEO optimization included",
-    "MCP protocol implementation",
-    "24/7 agent performance monitoring"
+    "MCP data capture for revenue generation",
+    "GEO optimization for market domination",
+    "24/7 operations with guaranteed uptime"
   ];
 
   const testimonials = [

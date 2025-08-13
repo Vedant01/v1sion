@@ -290,11 +290,11 @@ const GetStartedPage = () => {
           <div className="section-container">
             <div className="text-center mb-12">
               <h2 className="text-section-title text-gray-900 mb-4 fade-in-up">
-                Client Success
-                <span className="block text-gradient">Stories</span>
+                Agent Deployment
+                <span className="block text-gradient">War Stories</span>
               </h2>
               <p className="text-body-large text-gray-600 fade-in-up">
-                Hear from organizations that have transformed with V1S1ON
+                Real results from companies who deployed our AI agent armies
               </p>
             </div>
 

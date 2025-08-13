@@ -74,12 +74,12 @@ const Hero = () => {
             {/* Professional Badge */}
             <div className="mb-8 inline-flex items-center gap-2 frosted-glass px-6 py-3 hover-lift">
               <Sparkles className="w-5 h-5 text-amber-600 animated-icon" />
-              <span className="text-sm font-semibold text-gray-800 tracking-wide">Enterprise AI Transformation</span>
+              <span className="text-sm font-semibold text-gray-800 tracking-wide">Elite AI Agent Development</span>
             </div>
 
             {/* Subheadline */}
             <p className="text-2xl md:text-3xl font-agile text-gray-700 mb-8 max-w-4xl mx-auto fade-in-up leading-relaxed">
-              Building Tomorrow's AI-Native Organizations Today
+              Deploy AI agents that work harder than your best employees - without the drama
             </p>
 
             {/* CTA Buttons */}

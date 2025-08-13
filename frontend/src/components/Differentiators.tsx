@@ -48,7 +48,7 @@ const Differentiators = () => {
             <span className="block text-gradient">Differentiators</span>
           </h2>
           <p className="text-body-large text-gray-600 fade-in-up">
-            What sets V1S1ON apart in the AI transformation landscape
+            Why smart businesses choose V1S1ON over expensive consultants and broken AI tools
           </p>
         </div>
 

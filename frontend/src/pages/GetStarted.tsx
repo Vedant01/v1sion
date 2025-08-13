@@ -326,10 +326,10 @@ const GetStartedPage = () => {
             <div className="max-w-3xl mx-auto text-center">
               <div className="frosted-glass p-8 hover-lift">
                 <h3 className="text-subsection-title text-gray-900 mb-4">
-                  Ready to Begin Your AI Transformation?
+                  Ready to Deploy Your AI Agent Army?
                 </h3>
                 <p className="text-body text-gray-600 mb-6">
-                  Schedule your free AI readiness assessment today and take the first step towards becoming an AI-native organization.
+                  Schedule your free agent strategy session and discover how to replace expensive human tasks with AI agents.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <button 

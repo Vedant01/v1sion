@@ -337,14 +337,14 @@ const GetStartedPage = () => {
                     className="professional-button flex items-center justify-center gap-3"
                   >
                     <Calendar className="w-5 h-5" />
-                    Schedule Free Assessment
+                    Schedule Agent Strategy Session
                     <ArrowRight className="w-5 h-5" />
                   </button>
                   <button 
                     onClick={() => openCalendlyModal('demo')}
                     className="professional-button-secondary"
                   >
-                    Schedule Product Demo
+                    See Agents in Action
                   </button>
                 </div>
               </div>

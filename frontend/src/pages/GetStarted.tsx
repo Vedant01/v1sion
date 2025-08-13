@@ -67,13 +67,13 @@ const GetStartedPage = () => {
       name: "Rajesh Kumar",
       role: "CEO, TechCorp Solutions",
       company: "₹500Cr Revenue Technology Company",
-      quote: "V1S1ON's AI agents handle 85% of our customer inquiries. Our support costs dropped by 60% while customer satisfaction went up 40%."
+      quote: "V1S1ON's agents added ₹8L annual capacity to our operations. Same team, 10x output. Our competitors can't keep up."
     },
     {
       name: "Priya Sharma",
       role: "COO, FinanceFirst",
       company: "Leading Financial Services Firm",
-      quote: "Their lead generation agents brought us 300% more qualified prospects than our entire sales team combined. ROI was insane."
+      quote: "MCP data capture generates ₹2L monthly from insights we used to throw away. Our customer conversations now pay for themselves."
     }
   ];
 

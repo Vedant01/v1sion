@@ -6,31 +6,31 @@ const Differentiators = () => {
   const differentiators = [
     {
       icon: Shield,
-      title: "Vendor-Agnostic Approach",
-      description: "Technology-neutral recommendations based on your specific needs, not vendor partnerships",
+      title: "30-Day ROI Guarantee",
+      description: "Your AI agents pay for themselves in 30 days or we refund the difference. We're that confident.",
       color: "text-emerald-700",
-      badge: "Independent"
+      badge: "Guaranteed"
     },
     {
       icon: Cpu,
-      title: "Persistent Memory Integration",
-      description: "Leverage our V0RA platform for enhanced AI system memory and learning capabilities",
+      title: "MCP Data Goldmine System",
+      description: "Every customer interaction becomes sellable data. Turn conversations into ₹2L+ monthly revenue streams.",
       color: "text-gray-900",
-      badge: "Proprietary"
+      badge: "Revenue Gen"
     },
     {
       icon: Users,
-      title: "Community-Driven Innovation",
-      description: "Access to V3RSE talent network for specialized AI expertise and implementation support",
+      title: "Zero Training Required",
+      description: "Our AI agents come pre-trained and ready to deploy. No months of training - start scaling today.",
       color: "text-emerald-700",
-      badge: "Network"
+      badge: "Instant"
     },
     {
       icon: Folder,
-      title: "Measurable ROI Focus",
-      description: "Data-driven approach with clear metrics and continuous optimization for maximum returns",
+      title: "Agent Army Management",
+      description: "Control 100+ AI agents from one dashboard. Scale operations without adding management overhead.",
       color: "text-gray-900",
-      badge: "Results"
+      badge: "Scalable"
     }
   ];
 

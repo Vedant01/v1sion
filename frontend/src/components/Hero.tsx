@@ -82,7 +82,7 @@ const Hero = () => {
 
             {/* Subheadline */}
             <p className="text-2xl md:text-3xl font-agile text-gray-700 mb-8 max-w-4xl mx-auto fade-in-up leading-relaxed">
-              Deploy AI agents that work harder than your best employees - without the drama
+              Scale your team's output 10x without hiring anyone new
             </p>
 
             {/* CTA Buttons */}

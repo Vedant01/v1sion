@@ -8,59 +8,45 @@ const ServiceOfferings = () => {
   const services = [
     {
       icon: Zap,
-      title: "AI Readiness Audits",
-      price: "₹25,000 - ₹75,000",
-      period: "per engagement",
+      title: "AI Agent Deployment",
+      price: "₹1,50,000 - ₹5,00,000",
+      period: "per deployment",
       color: "text-emerald-700",
-      tier: "Foundation",
+      tier: "Combat",
       features: [
-        "Comprehensive AI maturity assessment",
-        "Technology stack evaluation",
-        "Skills gap analysis",
-        "Strategic roadmap recommendations"
-      ]
-    },
-    {
-      icon: Star,
-      title: "Strategic AI Roadmaps",
-      price: "₹50,000 - ₹2,00,000",
-      period: "per project",
-      color: "text-gray-900",
-      tier: "Strategy",
-      features: [
-        "Custom AI transformation strategy",
-        "Implementation timeline",
-        "Resource allocation planning",
-        "ROI projections and KPIs"
+        "Custom AI agent development",
+        "Multi-platform integration",
+        "Performance optimization",
+        "24/7 monitoring & support"
       ]
     },
     {
       icon: Crown,
-      title: "Implementation Services",
-      price: "₹1,00,000 - ₹5,00,000",
-      period: "per deployment",
-      color: "text-emerald-700",
-      tier: "Enterprise",
+      title: "Enterprise AI Systems",
+      price: "₹5,00,000 - ₹25,00,000",
+      period: "per project",
+      color: "text-gray-900",
+      tier: "Empire",
       popular: true,
       features: [
-        "End-to-end AI solution deployment",
-        "System integration and testing",
-        "Training and knowledge transfer",
-        "Performance optimization"
+        "Full-scale AI infrastructure",
+        "Multi-agent orchestration",
+        "Custom workflow automation",
+        "Advanced analytics & reporting"
       ]
     },
     {
-      icon: CheckCircle,
-      title: "Fractional CAIO",
-      price: "₹25,000 - ₹75,000",
-      period: "per month",
-      color: "text-gray-900",
-      tier: "Executive",
+      icon: Star,
+      title: "GEO Optimization",
+      price: "₹75,000 - ₹2,50,000",
+      period: "per campaign",
+      color: "text-emerald-700",
+      tier: "Tactical",
       features: [
-        "Part-time Chief AI Officer services",
-        "Strategic AI leadership",
-        "Team mentoring and guidance",
-        "Ongoing optimization support"
+        "Generative Engine Optimization",
+        "AI search engine domination",
+        "Content strategy implementation",
+        "Performance tracking & optimization"
       ]
     }
   ];

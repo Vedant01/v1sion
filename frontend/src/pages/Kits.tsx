@@ -133,15 +133,15 @@ const KitsPage = () => {
             <div className="text-center mb-16">
               <div className="inline-flex items-center gap-2 frosted-glass px-4 py-2 mb-6">
                 <Package className="w-4 h-4 text-emerald-700" />
-                <span className="text-tiny font-medium text-gray-700 uppercase tracking-wider">AI Transformation Kits</span>
+                <span className="text-tiny font-medium text-gray-700 uppercase tracking-wider">AI Agent Arsenal</span>
               </div>
               
               <h1 className="text-section-title text-gray-900 mb-4 fade-in-up">
-                Ready-to-Use AI
-                <span className="block text-gradient">Transformation Kits</span>
+                Deploy Your AI Agent
+                <span className="block text-gradient">Army Today</span>
               </h1>
               <p className="text-body-large text-gray-600 fade-in-up max-w-3xl mx-auto">
-                Accelerate your AI transformation with our comprehensive toolkits, templates, and frameworks designed by industry experts
+                Battle-tested kits that turn ordinary businesses into AI-powered empires. No fluff, just results.
               </p>
             </div>
 

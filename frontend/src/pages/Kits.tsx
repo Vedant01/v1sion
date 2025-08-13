@@ -121,7 +121,7 @@ const KitsPage = () => {
     }
   ];
 
-  const categories = ["All", "Assessment", "Strategy", "Implementation", "Leadership", "Development", "Education"];
+  const categories = ["All", "Enterprise", "Operations", "Sales", "Marketing", "Technical", "Training"];
 
   return (
     <div className="min-h-screen bg-white">

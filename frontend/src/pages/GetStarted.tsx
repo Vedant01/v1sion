@@ -106,7 +106,7 @@ const GetStartedPage = () => {
                   className="professional-button flex items-center justify-center gap-3 group text-lg px-8 py-4"
                 >
                   <Calendar className="w-5 h-5 transition-transform group-hover:rotate-12" />
-                  Schedule Free Assessment
+                  Schedule Agent Strategy Session
                   <ArrowRight className="w-5 h-5 transition-transform group-hover:translate-x-1" />
                 </button>
                 
@@ -115,7 +115,7 @@ const GetStartedPage = () => {
                   className="professional-button-secondary flex items-center justify-center gap-3 text-lg px-8 py-4"
                 >
                   <Rocket className="w-5 h-5 text-emerald-700" />
-                  Book Strategic Consultation
+                  Deploy Agent Army
                 </button>
               </div>
 

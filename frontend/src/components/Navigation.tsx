@@ -106,13 +106,13 @@ const Navigation = () => {
                 onClick={() => navigateToPage('/kits')} 
                 className={`${linkTextClass} transition-colors font-agile font-semibold elegant-underline`}
               >
-                Kits
+                War Chest
               </button>
               <button 
                 onClick={() => navigateToPage('/get-started')} 
                 className="professional-button text-sm px-6 py-3 shadow-lg"
               >
-                Get Started
+                Deploy Now
               </button>
             </div>
 

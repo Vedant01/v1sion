@@ -28,7 +28,7 @@ const InfiniteReviewCarousel = () => {
       role: "CMO",
       company: "Technology Solutions Enterprise",
       rating: 5,
-      review: "Working with V1SION was a revelation. Their vendor-agnostic approach saved us from costly lock-ins, and the V3RSE talent network provided exactly the expertise we needed. Highly recommend for any serious AI transformation."
+      review: "V1SION's MCP data capture system generates ₹2L monthly from customer conversations we used to waste. Their AI agents scale our team output 10x without management overhead."
     },
     {
       id: 4,

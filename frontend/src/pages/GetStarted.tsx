@@ -29,26 +29,26 @@ const GetStartedPage = () => {
   const steps = [
     {
       icon: Calendar,
-      title: "Schedule AI Readiness Assessment",
-      description: "Book a comprehensive evaluation of your organization's AI maturity and transformation potential",
-      duration: "60 minutes",
-      price: "Free Consultation",
+      title: "Agent Strategy Session",
+      description: "Deep-dive session to identify where AI agents can replace your most expensive processes",
+      duration: "90 minutes",
+      price: "Free Assessment",
       action: () => openCalendlyModal('assessment')
     },
     {
       icon: Target,
-      title: "Strategic Roadmap Development",
-      description: "Receive a customized AI transformation strategy tailored to your specific business objectives",
-      duration: "2-3 weeks",
-      price: "₹50,000 - ₹2,00,000",
+      title: "Custom Agent Blueprint",
+      description: "Get a detailed blueprint of your AI agent army with ROI projections and deployment timeline",
+      duration: "1-2 weeks",
+      price: "₹1,50,000 - ₹5,00,000",
       action: () => openCalendlyModal('consultation')
     },
     {
       icon: Rocket,
-      title: "Implementation & Deployment",
-      description: "Execute your AI transformation with our proven methodology and expert guidance",
-      duration: "3-6 months",
-      price: "₹1,00,000 - ₹5,00,000",
+      title: "Agent Army Deployment",
+      description: "Deploy your AI agents with military precision - trained, tested, and ready for battle",
+      duration: "4-8 weeks",
+      price: "₹5,00,000 - ₹50,00,000",
       action: () => openCalendlyModal('consultation')
     }
   ];

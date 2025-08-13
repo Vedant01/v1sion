@@ -148,7 +148,7 @@ const ServiceOfferings = () => {
         <div className="mt-12 text-center fade-in-up">
           <div className="frosted-glass inline-block px-8 py-4 hover-lift">
             <p className="text-body text-gray-700">
-              <span className="text-emerald-700 font-bold">Custom Enterprise Packages:</span> Tailored solutions for unique requirements
+              <span className="text-emerald-700 font-bold">Custom AI Warfare:</span> Bespoke solutions for unique challenges
             </p>
           </div>
         </div>

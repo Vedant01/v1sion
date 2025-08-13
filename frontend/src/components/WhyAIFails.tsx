@@ -6,21 +6,21 @@ const WhyAIFails = () => {
   const challenges = [
     {
       icon: Zap,
-      title: "Fragmented Implementation",
-      description: "Organizations deploy disconnected AI tools without integration strategy",
-      stat: "70%"
+      title: "One-Trick AI Ponies",
+      description: "Companies deploy single-purpose AI tools that can't talk to each other - it's digital chaos",
+      stat: "78%"
     },
     {
       icon: Users,
-      title: "Skills Gap Crisis", 
-      description: "Companies lack AI expertise to drive meaningful transformation",
-      stat: "30%"
+      title: "Agent Control Crisis", 
+      description: "Teams deploy agents but can't manage, monitor, or scale them effectively",
+      stat: "65%"
     },
     {
       icon: AlertTriangle,
-      title: "Change Management Failure",
-      description: "Technology without cultural transformation leads to adoption failure",
-      stat: "85%"
+      title: "Integration Nightmares",
+      description: "AI agents that don't play nice with existing systems create more problems than they solve",
+      stat: "82%"
     }
   ];
 

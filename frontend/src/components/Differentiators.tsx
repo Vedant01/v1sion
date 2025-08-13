@@ -88,10 +88,10 @@ const Differentiators = () => {
                     <div className="mt-3 flex items-center gap-2">
                       <div className="w-2 h-2 rounded-full bg-emerald-600" />
                       <span className="text-tiny font-medium text-emerald-700">
-                        {diff.title.includes('Vendor') && 'Technology Neutral'}
-                        {diff.title.includes('Memory') && 'V0RA Platform'}
-                        {diff.title.includes('Community') && 'V3RSE Network'}
-                        {diff.title.includes('ROI') && 'Data-Driven'}
+                        {diff.title.includes('ROI') && 'Money Back Promise'}
+                        {diff.title.includes('MCP') && 'Data Monetization'}
+                        {diff.title.includes('Zero') && 'Deploy Today'}
+                        {diff.title.includes('Army') && 'Unlimited Scale'}
                       </span>
                     </div>
                   </div>

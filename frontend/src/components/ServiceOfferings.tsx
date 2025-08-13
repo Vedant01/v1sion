@@ -12,11 +12,11 @@ const ServiceOfferings = () => {
       price: "₹1,50,000 - ₹5,00,000",
       period: "per deployment",
       color: "text-emerald-700",
-      tier: "Combat",
+      tier: "Scale",
       features: [
         "Custom AI agent development",
         "Multi-platform integration",
-        "Performance optimization",
+        "10x output capacity boost",
         "24/7 monitoring & support"
       ]
     },
@@ -31,21 +31,21 @@ const ServiceOfferings = () => {
       features: [
         "Full-scale AI infrastructure",
         "Multi-agent orchestration",
-        "Custom workflow automation",
+        "₹10L+ annual data revenue potential",
         "Advanced analytics & reporting"
       ]
     },
     {
       icon: Star,
-      title: "GEO Optimization",
+      title: "GEO + MCP Optimization",
       price: "₹75,000 - ₹2,50,000",
       period: "per campaign",
       color: "text-emerald-700",
-      tier: "Tactical",
+      tier: "Revenue",
       features: [
         "Generative Engine Optimization",
-        "AI search engine domination",
-        "Content strategy implementation",
+        "MCP data capture systems",
+        "Turn conversations into cash",
         "Performance tracking & optimization"
       ]
     }

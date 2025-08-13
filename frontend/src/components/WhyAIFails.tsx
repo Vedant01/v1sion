@@ -34,11 +34,11 @@ const WhyAIFails = () => {
           </div>
           
           <h2 className="text-5xl md:text-6xl font-mooxy font-bold text-gray-900 mb-8 fade-in-up">
-            Why AI Transformations
+            Why AI Agents
             <span className="block text-red-600 mt-4">Fail</span>
           </h2>
           <p className="text-2xl font-agile text-gray-600 max-w-4xl mx-auto fade-in-up leading-relaxed" style={{animationDelay: '0.2s'}}>
-            Understanding the critical barriers that prevent successful AI adoption
+            The brutal truth about why 80% of AI agent deployments crash and burn
           </p>
         </div>
 

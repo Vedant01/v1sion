@@ -136,19 +136,19 @@ const Navigation = () => {
                 onClick={() => navigateToPage('/our-approach')} 
                 className={`block w-full text-left ${mobileLinkClass} transition-colors font-agile font-semibold py-3 elegant-underline`}
               >
-                Our Approach
+                Agent Arsenal
               </button>
               <button 
                 onClick={() => navigateToPage('/services')} 
                 className={`block w-full text-left ${mobileLinkClass} transition-colors font-agile font-semibold py-3 elegant-underline`}
               >
-                Services
+                Deploy
               </button>
               <button 
                 onClick={() => navigateToPage('/impact')} 
                 className={`block w-full text-left ${mobileLinkClass} transition-colors font-agile font-semibold py-3 elegant-underline`}
               >
-                Impact
+                Battle Results
               </button>
               <button 
                 onClick={() => navigateToPage('/blog')} 
@@ -160,13 +160,13 @@ const Navigation = () => {
                 onClick={() => navigateToPage('/kits')} 
                 className={`block w-full text-left ${mobileLinkClass} transition-colors font-agile font-semibold py-3 elegant-underline`}
               >
-                Kits
+                War Chest
               </button>
               <button 
                 onClick={() => navigateToPage('/get-started')} 
                 className="professional-button text-sm w-full mt-4"
               >
-                Get Started
+                Deploy Now
               </button>
             </div>
           )}

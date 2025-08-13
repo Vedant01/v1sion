@@ -296,17 +296,17 @@ const KitsPage = () => {
           <div className="section-container">
             <div className="text-center">
               <h3 className="text-subsection-title text-gray-900 mb-4">
-                Need Help Choosing the Right Kit?
+                Need Help Choosing Your Weapon?
               </h3>
               <p className="text-body text-gray-600 mb-8">
-                Our experts can help you select the perfect toolkit for your transformation journey
+                Our AI strategists will help you select the perfect arsenal for maximum impact
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
                 <button className="professional-button">
-                  Schedule Consultation
+                  Get Strategic Advice
                 </button>
                 <button className="professional-button-secondary">
-                  Contact Support
+                  Contact War Room
                 </button>
               </div>
             </div>

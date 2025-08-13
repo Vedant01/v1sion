@@ -65,11 +65,11 @@ const ServiceOfferings = () => {
           </div>
           
           <h2 className="text-section-title text-gray-900 mb-4 fade-in-up">
-            Service Offerings
-            <span className="block text-gradient">& Pricing</span>
+            AI Agent Services
+            <span className="block text-gradient">& Deployment</span>
           </h2>
           <p className="text-body-large text-gray-600 fade-in-up">
-            Flexible engagement models tailored to your transformation journey
+            From single agents to full AI empires - we build what others can't
           </p>
         </div>
 

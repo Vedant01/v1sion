@@ -79,8 +79,8 @@ const WhyAIFails = () => {
         {/* Bottom Insight */}
         <div className="mt-20 text-center fade-in-up" style={{animationDelay: '0.8s'}}>
           <div className="frosted-glass inline-block px-12 py-6 hover-lift">
-            <span className="stat-counter text-3xl font-bold text-red-600 mr-3">₹340T</span>
-            <span className="text-gray-700 font-agile text-xl">wasted on broken AI agent deployments</span>
+            <span className="stat-counter text-3xl font-bold text-red-600 mr-3">₹2.3L Cr</span>
+            <span className="text-gray-700 font-agile text-xl">opportunity lost to broken AI deployments</span>
           </div>
         </div>
       </div>

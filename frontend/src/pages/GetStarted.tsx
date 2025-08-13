@@ -65,15 +65,15 @@ const GetStartedPage = () => {
   const testimonials = [
     {
       name: "Rajesh Kumar",
-      role: "CTO, TechCorp India",
-      company: "Fortune 500 Technology Company",
-      quote: "V1S1ON transformed our approach to AI. Their ecosystem-first methodology delivered results beyond our expectations."
+      role: "CEO, TechCorp Solutions",
+      company: "₹500Cr Revenue Technology Company",
+      quote: "V1S1ON's AI agents handle 85% of our customer inquiries. Our support costs dropped by 60% while customer satisfaction went up 40%."
     },
     {
       name: "Priya Sharma",
-      role: "Head of Innovation",
-      company: "Leading Financial Services",
-      quote: "The ROI from our AI transformation exceeded projections by 40%. V1S1ON's expertise was instrumental."
+      role: "COO, FinanceFirst",
+      company: "Leading Financial Services Firm",
+      quote: "Their lead generation agents brought us 300% more qualified prospects than our entire sales team combined. ROI was insane."
     }
   ];
 

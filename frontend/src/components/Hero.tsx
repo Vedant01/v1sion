@@ -48,10 +48,10 @@ const Hero = () => {
           <div className="text-center">
             <h1 className="text-5xl md:text-7xl font-tomorrow font-medium leading-tight fade-in-up">
               <span className="block text-white drop-shadow-2xl">
-                Strategic AI-Native
+                AI Agent
               </span>
               <span className="block bg-gradient-to-r from-green-300 via-green-200 to-emerald-400 bg-clip-text text-transparent mt-2 drop-shadow-2xl">
-                Transformation
+                Empire Builders
               </span>
             </h1>
           </div>

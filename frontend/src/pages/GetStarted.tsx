@@ -96,7 +96,7 @@ const GetStartedPage = () => {
               </h1>
               
               <p className="text-body-large text-gray-600 mb-12 max-w-3xl mx-auto fade-in-up">
-                Stop hiring expensive humans for tasks that AI agents can do better, faster, and 24/7 without coffee breaks.
+                Get ₹50,000/month work capacity for ₹500/month. Scale your operations without hiring.
               </p>
 
               {/* Primary CTA Buttons */}

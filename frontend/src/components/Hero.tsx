@@ -90,14 +90,14 @@ const Hero = () => {
                 rel="noopener noreferrer"
                 className="professional-button group flex items-center justify-center gap-4 text-lg"
               >
-                Schedule AI Readiness Assessment
+                Schedule AI Agent Demo
                 <ArrowRight className="w-5 h-5 transition-transform group-hover:translate-x-2" />
               </a>
               <a 
               href="mailto:contact@versiontwo.world" 
               className="professional-button-secondary text-lg inline-flex items-center justify-center"
               >
-              Book Strategic Consultation
+              Deploy Agent Army
               </a>
             </div>
 

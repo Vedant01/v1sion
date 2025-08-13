@@ -82,19 +82,19 @@ const Navigation = () => {
                 onClick={() => navigateToPage('/our-approach')} 
                 className={`${linkTextClass} transition-colors font-agile font-semibold elegant-underline`}
               >
-                Our Approach
+                Agent Arsenal
               </button>
               <button 
                 onClick={() => navigateToPage('/services')} 
                 className={`${linkTextClass} transition-colors font-agile font-semibold elegant-underline`}
               >
-                Services
+                Deploy
               </button>
               <button 
                 onClick={() => navigateToPage('/impact')} 
                 className={`${linkTextClass} transition-colors font-agile font-semibold elegant-underline`}
               >
-                Impact
+                Battle Results
               </button>
               <button 
                 onClick={() => navigateToPage('/blog')} 

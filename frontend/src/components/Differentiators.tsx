@@ -109,9 +109,9 @@ const Differentiators = () => {
           ))}
         </div>
 
-        {/* Platform Showcase */}
+        {/* Competitive Advantage Showcase */}
         <div className="mt-12 text-center fade-in-up">
-          <div className="frosted-glass inline-block px-8 py-6 max-w-3xl hover-lift">
+          <div className="frosted-glass inline-block px-8 py-6 max-w-4xl hover-lift">
             <div className="flex items-center justify-center gap-4 mb-4">
               <div className="w-10 h-10 rounded-full bg-gray-100 p-0.5">
                 <div className="w-full h-full rounded-full bg-white flex items-center justify-center">
@@ -119,13 +119,13 @@ const Differentiators = () => {
                 </div>
               </div>
               <div>
-                <h4 className="font-agile font-bold text-gray-900 text-lg">V0RA + V3RSE Ecosystem</h4>
-                <p className="text-tiny text-gray-600">Persistent Memory + Talent Network</p>
+                <h4 className="font-agile font-bold text-gray-900 text-lg">Complete AI Agent Ecosystem</h4>
+                <p className="text-tiny text-gray-600">Deploy, Scale, Monetize, Dominate</p>
               </div>
             </div>
             <p className="text-body text-gray-700">
-              Our proprietary platforms provide continuous learning capabilities and access to specialized AI talent, 
-              ensuring your transformation stays ahead of the curve.
+              While others sell you broken chatbots, we build complete AI agent empires that scale your business, 
+              generate revenue from data, and give you unfair competitive advantages.
             </p>
           </div>
         </div>

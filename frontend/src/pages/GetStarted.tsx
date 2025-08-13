@@ -30,7 +30,7 @@ const GetStartedPage = () => {
     {
       icon: Calendar,
       title: "Agent Strategy Session",
-      description: "Deep-dive session to identify where AI agents can replace your most expensive processes",
+      description: "Identify where AI agents can add ₹8L+ annual capacity to your current operations",
       duration: "90 minutes",
       price: "Free Assessment",
       action: () => openCalendlyModal('assessment')
@@ -38,15 +38,15 @@ const GetStartedPage = () => {
     {
       icon: Target,
       title: "Custom Agent Blueprint",
-      description: "Get a detailed blueprint of your AI agent army with ROI projections and deployment timeline",
+      description: "Get detailed blueprint showing 10x output potential with ROI projections and MCP data revenue",
       duration: "1-2 weeks",
       price: "₹1,50,000 - ₹5,00,000",
       action: () => openCalendlyModal('consultation')
     },
     {
       icon: Rocket,
-      title: "Agent Army Deployment",
-      description: "Deploy your AI agents with military precision - trained, tested, and ready for battle",
+      title: "Agent Empire Deployment",
+      description: "Deploy your AI agent systems with guaranteed 30-day ROI and ongoing revenue optimization",
       duration: "4-8 weeks",
       price: "₹5,00,000 - ₹50,00,000",
       action: () => openCalendlyModal('consultation')

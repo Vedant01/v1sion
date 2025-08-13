@@ -268,10 +268,10 @@ const GetStartedPage = () => {
                   <h3 className="text-subsection-title text-gray-900 mb-6">Success Metrics</h3>
                   <div className="space-y-4">
                     {[
-                      { metric: "90%", label: "Cost Reduction" },
-                      { metric: "24/7", label: "Agent Uptime" },
-                      { metric: "5x", label: "Faster Response" },
-                      { metric: "300%", label: "Lead Increase" }
+                      { metric: "10x", label: "Output Capacity" },
+                      { metric: "₹8L", label: "Annual Savings" },
+                      { metric: "30 Days", label: "ROI Timeline" },
+                      { metric: "₹2L/mo", label: "Data Revenue" }
                     ].map((item, index) => (
                       <div key={index} className="flex items-center justify-between">
                         <span className="text-small text-gray-700">{item.label}</span>

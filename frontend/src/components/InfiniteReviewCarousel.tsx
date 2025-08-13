@@ -12,7 +12,7 @@ const InfiniteReviewCarousel = () => {
       role: "Head of Oncology Department",
       company: "Leading Healthcare Institution",
       rating: 5,
-      review: "V1SION's ecosystem approach transformed our entire organization. The ROI exceeded our projections by 40%, and their V0RA platform integration gave us persistent memory capabilities we never thought possible. Absolutely game-changing."
+      review: "V1SION's AI agents added ₹8L annual capacity to our operations without hiring anyone. Our agents work 24/7 generating leads and capturing data insights. Absolutely game-changing ROI."
     },
     {
       id: 2,

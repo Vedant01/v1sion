@@ -7,7 +7,7 @@ const KitsPage = () => {
     {
       id: 1,
       title: "Enterprise AI Agent Empire Kit",
-      description: "Build your own army of AI agents that work 24/7 - no coffee breaks, no sick days, just pure efficiency",
+      description: "Scale your team's output 10x - one kit replaces ₹15L worth of consultant hours annually",
       price: "₹2,50,000",
       originalPrice: "₹4,00,000",
       category: "Enterprise",
@@ -27,7 +27,7 @@ const KitsPage = () => {
     {
       id: 2,
       title: "Internal Operations Domination Kit",
-      description: "Turn your company into a lean, mean, AI-powered machine that operates while you sleep",
+      description: "Free your team for strategy while AI handles operations - ₹8L additional capacity per year",
       price: "₹1,75,000",
       originalPrice: "₹2,75,000",
       category: "Operations",
@@ -46,7 +46,7 @@ const KitsPage = () => {
     {
       id: 3,
       title: "Lead Generation Warfare Kit",
-      description: "Deploy AI agents that hunt, capture, and convert leads like digital predators",
+      description: "Generate consultant-level insights at AI speed - 300% more qualified prospects",
       price: "₹3,25,000",
       originalPrice: "₹5,00,000",
       category: "Sales",
@@ -65,7 +65,7 @@ const KitsPage = () => {
     {
       id: 4,
       title: "GEO Optimization Arsenal",
-      description: "Dominate search engines with Generative Engine Optimization - make AI search engines work for you",
+      description: "Turn every customer search into revenue - AI search engine domination tactics",
       price: "₹1,25,000",
       originalPrice: "₹2,00,000",
       category: "Marketing",
@@ -84,7 +84,7 @@ const KitsPage = () => {
     {
       id: 5,
       title: "MCP Protocol Mastery Kit",
-      description: "Master Model Context Protocol - control AI conversations like a puppet master",
+      description: "Your customer conversations are worth ₹2Cr - MCP captures every insight for revenue",
       price: "₹2,00,000",
       originalPrice: "₹3,25,000",
       category: "Technical",
@@ -103,7 +103,7 @@ const KitsPage = () => {
     {
       id: 6,
       title: "AI Agent Training Bootcamp",
-      description: "Transform your team into AI agent commanders - from rookies to tactical operators",
+      description: "10x output capacity with same team size - transform operations without hiring",
       price: "₹1,50,000",
       originalPrice: "₹2,50,000",
       category: "Training",

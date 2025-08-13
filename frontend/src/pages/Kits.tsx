@@ -141,7 +141,7 @@ const KitsPage = () => {
                 <span className="block text-gradient">Army Today</span>
               </h1>
               <p className="text-body-large text-gray-600 fade-in-up max-w-3xl mx-auto">
-                Battle-tested kits that turn ordinary businesses into AI-powered empires. No fluff, just results.
+                Get consultant-level results at AI speed. No hiring, just scaling.
               </p>
             </div>
 
